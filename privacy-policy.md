@@ -2,7 +2,7 @@
 
 **Son güncelleme: 19 Ağustos 2026**
 
-benneyim.js ("bot", "biz") bir Discord botudur. Bu sayfa, botu kullanırken hangi verilerin işlendiğini, bu verilerin nasıl kullanıldığını ve haklarının neler olduğunu açıklar.
+benneyim.js bir Discord botudur. Bu sayfa, botu kullanırken hangi verilerin işlendiğini, bu verilerin nasıl kullanıldığını ve haklarının neler olduğunu açıklar.
 
 ## 1. Hangi Verileri İşliyoruz?
 
